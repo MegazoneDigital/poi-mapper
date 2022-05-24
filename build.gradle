@@ -55,7 +55,7 @@ publishing {
             pom {
                 name = 'Mz Poi Mapper'
                 description = 'Model to Excel, Excel to Model mapper based on apache poi'
-                url = 'https://github.com/MegazoneDSG/poi-mapper'
+                url = 'https://github.com/MegazoneDigital/poi-mapper'
                 licenses {
                     license {
                         name = 'The Apache License, Version 2.0'
@@ -70,7 +70,7 @@ publishing {
                     }
                 }
                 scm {
-                    url = 'https://github.com/MegazoneDSG/poi-mapper'
+                    url = 'https://github.com/MegazoneDigital/poi-mapper'
                 }
             }
         }
